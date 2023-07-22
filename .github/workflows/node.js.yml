@@ -10,7 +10,7 @@
 on:
   push:
     branches:
-      - main
+      - None
 
 env:
   AZURE_WEBAPP_NAME: cicdjavierechaniz   # set this to your application's name
